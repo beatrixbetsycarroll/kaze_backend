@@ -1,0 +1,58 @@
+
+Hi there! Would you please be so kind as to help me with something that is very important to me, and that I think it will also be very important to other people, and hopefully make a positive impact on the world one day! In order to best explain my request, I am going to use the "COSTAR" prompt engineering approach! Here goes nothing:
+
+Context:
+I am very into the power of the subconscious mind and leveraging it to help myself acheive my goals, as well as teaching and showing others how to do the same.
+I recently read the book 'The Power of Your Subconscios Mind' by Joseph Murphy, and found it to be super helpful and eye-opening.
+
+In the book Murphy explains how to use the practice of saying affirmations outloud to efficiently and fully implant a goal or empowering belief into one's subconscious mind. Then, it sounds to me like the brain uses one's subconscious beliefs as an objective similar to the way a machine learning model does, and then backwards engineers the best path to acheiving that goal on a minute by minute basis, constantly recalibrating and readjusting to best reach the goal, and tells our conscious mind the correct instructions to stay on the right path toward acheiving that goal by making the right choices feel easy and instinctive. 
+
+In the book he outlines how to best phrase the affirmations, because there are certain tricks and tips that one must know in order to not accidentally trip up the subconscious mind. 
+
+Here are some of those special rules for affirmation writing:
+1. Sound positive and grateful in the writing of the words (as well as in your tone when you speak them outloud or to yourself in your mind).
+
+2. Speak in the present tense in such a way that is aspirational and pushes you forward in terms of advancing your goal, and yet is still truthful. 
+For instance if a person wants to become a millionaire and they are currently broke, they should NOT say:
+    "I am a millionaire and I am so grateful for my wealth." 
+    Because the subconscious mind is heavily imprinted by emotion, if a broke person who wishes to be rich were said that outloud to themselves, they might have a pang of pain at the reminder of their lack of funds, which saying such a sentence would naturally induce.
+Instead, they should say:
+    "I attract money and I calmly and decisively make decisions that lead to extreme wealth and financial freedom every day." 
+    While the person may not have money yet, this affirmation is still able to be felt as true:  the person can accept that this statement is true now simply because they have now decided to tell their subconcious mind this instruction, so now that the instruction has been given, the subconcious mind is making it true. And now their new practice of saying affirmations is making this more and more true every day as they repeat the words for their own mind to hear.
+
+3. Never use negative phrasing in the affirmation, meaning never mention the thing you are trying to avoid. Instead, talk about the thing you should be doing instead of the thing you are avoiding. So, always use the positive form of the goal. 
+For instance if you want to break the habit of procrastinating, you should NOT say:
+    "I never procrastinate."
+Instead, you should say:
+    "I always do the task I have decided to right away! I love the feeling of accomplishing what has been assigned quickly and having the freedom that that feeling of accomplishment gives me!"
+Or for instance, if you are trying to quit smoking, you should NOT say:
+    "I hate smoking and all the things that go along with it: the guilt, the shame, the bad smell, the coughing, being enslaved to an addiction, the fear of getting very sick... everything!"
+Instead, you should say:
+    "I love being free from smoking!!! I love my perfect health and am so grateful for it. I know my subconscious mind knows how to heal my body and it does so every night while I am sleeping, and I am so grateful for that!"
+
+Objective:
+Please generate affirmations for me tailored to the specific goals that I am about to provide (I will provide them at THE VERY END of the prompt). Please incorporate all of the teachings of Joseph Murphy that I described above (and using your own research on the subconscious mind and affirmations, if you like!!)
+
+Style and Tone:
+Please write them in the style of Joseph Murphy's affirmations as he writes them in his book. This style is sort of biblical and Jesus-like in nature (sort of all-knowing, calm sounding, confident, loving, and reassuring).
+
+Audience:
+The audience for these affirmations will be just me, for now! 
+I am a 34 year old straight white woman based in NYC. I am interested in self help, self improvement, Machine Learning & Software Engineering, and psychology.
+
+Response:
+I would love to get the response in the form of a python dict, like such:
+{
+    1: {
+        'title': '[insert an abstracted title that you come up with here! please make the title something that summarizes the category of the goal in 1-3 words]'
+        'affirmation': '[insert the affirmation itself here! please make this be 1-8 sentences, depending on your judgment based on the affirmation context and your judgment]'
+    }
+    2: ...
+} 
+Please make a key for each of the goals. Please do not include any other text other than the bracketed python dict, ready to be interpreted by a compiler. So the first character I see should be '{', and the last should be '}'. Please refrain from any preample text-- this part is very very important to me. Thank you SO MUCH!!!!
+
+Thank you again so much in advance!!!
+
+Ok so now here are my specific goals:
+
+
