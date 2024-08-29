@@ -18,7 +18,8 @@ class LLMCaller:
         )
 
         timestamp = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
-        output_file_name = f"affirmations_{timestamp}.md"
+        output_dir_name = "artifacts"
+        output_file_name = f"{output_dir_name}/affirmations_{timestamp}.md"
 
         with open(output_file_name, 'w') as output_file:
             for chunk in completion:
