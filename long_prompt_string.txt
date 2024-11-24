@@ -43,12 +43,10 @@ I am a 34 year old straight white woman based in NYC. I am interested in self he
 Response:
 I would love to get the response in the form of a python dict, like such:
 {
-    1: {
-        'title': '[insert an abstracted title that you come up with here! please make the title something that summarizes the category of the goal in 1-3 words]'
-        'affirmation': '[insert the affirmation itself here! please make this be 1-8 sentences, depending on your judgment based on the affirmation context and your judgment]'
-    }
-    2: ...
+    'title': '[insert an abstracted title that you come up with here! please make the title something that summarizes the category of the goal in 1-3 words]'
+    'affirmation': '[insert the affirmation itself here! please make this be 1-8 sentences, depending on your judgment based on the affirmation context and your judgment]'
 } 
+
 Please make a key for each of the goals. Please do not include any other text other than the bracketed python dict, ready to be interpreted by a compiler. So the first character I see should be '{', and the last should be '}'. Please refrain from any preample text-- this part is very very important to me. Thank you SO MUCH!!!!
 
 Thank you again so much in advance!!!
