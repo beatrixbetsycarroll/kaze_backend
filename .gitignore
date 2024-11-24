@@ -1,1 +1,38 @@
-__pycache__
+# Ignore everything in the artifacts directory
+artifacts/*
+# But keep the .gitkeep file in artifacts
+!artifacts/.gitkeep
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Python cache directories
+__pycache__/
+.pytest_cache/
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore coverage reports
+.coverage
+*.cover
+
+# Ignore build outputs (if applicable)
+build/
+dist/
+
+# Ignore editor and OS-specific files
+.DS_Store
+*.swp
+*.swo
+Thumbs.db
+
+# Ignore logs
+*.log
+
